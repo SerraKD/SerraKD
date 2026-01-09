@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serra</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serrakd" alt="serrakd" /></a> </p>
-
 -  [https://serrakirdworczak.netlify.app/](https://serrakirdworczak.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
