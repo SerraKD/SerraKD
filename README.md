@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serra</h1>
 
--  [https://serrakirdworczak.netlify.app/](https://serrakirdworczak.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
